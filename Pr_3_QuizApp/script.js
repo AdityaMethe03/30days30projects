@@ -104,7 +104,7 @@ function showScore(){
     nextButton.style.display = "block";
 }
 
-function handleNextButoon(){
+function handleNextButton(){
     currentQuestionIndex++;
     if(currentQuestionIndex < questions.length){
         showQuestion();

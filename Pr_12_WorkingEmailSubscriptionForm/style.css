@@ -7,7 +7,7 @@
 .hero{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("../email-subs-img/background.png");
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("Pr_12_WorkingEmailSubscriptionForm/email-subs-img/background.png");
     background-size: cover;
     background-position: center;
     padding: 10px 10%;
